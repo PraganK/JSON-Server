@@ -1,0 +1,80 @@
+{ 
+  "users": [
+    {
+      "userId": 1,
+      "firstName": "John",
+      "lastName": "Stewart",
+      "phone": "9876012345",
+      "email": "john@abc.com",
+      "address": "Kolkata"
+    },
+    {
+      "userId": 2,
+      "firstName": "Pragan",
+      "lastName": "Krish",
+      "phone": "8822440055",
+      "email": "pragan@abc.com",
+      "address": "Chennai"
+    },
+    {
+      "userId": 3,
+      "firstName": "Jack",
+      "lastName": "Black",
+      "phone": "3210000654",
+      "email": "jack@abc.com",
+      "address": "Mumbai"
+    },
+    {
+      "userId": 4,
+      "firstName": "Amanda",
+      "lastName": "Seyfried",
+      "phone": "7744556622",
+      "email": "amanda@abc.com",
+      "address": "New Delhi"
+    },
+    {
+      "userId": 5,
+      "firstName": "Hugh",
+      "lastName": "Jackman",
+      "phone": "5588116600",
+      "email": "hugh@abc.com",
+      "address": "Bangalore"
+    }
+  ],
+  "posts": [
+    {
+      "postId": 1,
+      "userId": 1,
+      "content": "1 - Some random post generated for testing my social media app."
+    },
+    {
+      "postId": 2,
+      "userId": 1,
+      "content": "2 - Some random post generated for testing my social media app."
+    },
+    {
+      "postId": 3,
+      "userId": 1,
+      "content": "3 - Some random post generated for testing my social media app."
+    }
+  ],
+  "comments": [
+    {
+      "commentId": 1,        
+      "postId": 1,      
+      "comment": "Hi bro"
+    },
+    {
+      "commentId": 2,
+      "postId": 1,      
+      "comment": "awesome:)"
+    }
+  ],
+  "albums": [
+    {
+      "albumId": 1,
+      "userId": 1,
+      "name": "Album-1"
+    }
+  ]
+}
