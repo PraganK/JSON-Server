@@ -4,41 +4,51 @@
       "userId": 1,
       "firstName": "John",
       "lastName": "Stewart",
+      "gender": "male",
       "phone": "9876012345",
       "email": "john@abc.com",
-      "address": "Kolkata"
+      "address": "Kolkata",
+      "photo": "images/male-avatar.jpg"
     },
     {
       "userId": 2,
       "firstName": "Pragan",
       "lastName": "Krish",
+      "gender": "male",
       "phone": "8822440055",
       "email": "pragan@abc.com",
-      "address": "Chennai"
+      "address": "Chennai",
+      "photo": ""
     },
     {
       "userId": 3,
       "firstName": "Jack",
       "lastName": "Black",
+      "gender": "male",
       "phone": "3210000654",
       "email": "jack@abc.com",
-      "address": "Mumbai"
+      "address": "Mumbai",
+      "photo": ""
     },
     {
       "userId": 4,
       "firstName": "Amanda",
       "lastName": "Seyfried",
+      "gender": "female",
       "phone": "7744556622",
       "email": "amanda@abc.com",
-      "address": "New Delhi"
+      "address": "New Delhi",
+      "photo": ""
     },
     {
       "userId": 5,
       "firstName": "Hugh",
       "lastName": "Jackman",
+      "gender": "male",
       "phone": "5588116600",
       "email": "hugh@abc.com",
-      "address": "Bangalore"
+      "address": "Bangalore",
+      "photo": ""
     }
   ],
   "posts": [
