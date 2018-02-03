@@ -1,7 +1,7 @@
 { 
   "users": [
     {
-      "userId": 1,
+      "id": 1,
       "firstName": "John",
       "lastName": "Stewart",
       "gender": "male",
@@ -11,7 +11,7 @@
       "photo": "assets/profile/1.jpg"
     },
     {
-      "userId": 2,
+      "id": 2,
       "firstName": "Pragan",
       "lastName": "Krish",
       "gender": "male",
@@ -21,7 +21,7 @@
       "photo": ""
     },
     {
-      "userId": 3,
+      "id": 3,
       "firstName": "Jack",
       "lastName": "Black",
       "gender": "male",
@@ -31,7 +31,7 @@
       "photo": ""
     },
     {
-      "userId": 4,
+      "id": 4,
       "firstName": "Amanda",
       "lastName": "Seyfried",
       "gender": "female",
@@ -41,7 +41,7 @@
       "photo": ""
     },
     {
-      "userId": 5,
+      "id": 5,
       "firstName": "Hugh",
       "lastName": "Jackman",
       "gender": "male",
@@ -53,38 +53,48 @@
   ],
   "posts": [
     {
-      "postId": 1,
+      "id": 1,
       "userId": 1,
       "content": "1 - Some random post generated for testing my social media app."
     },
     {
-      "postId": 2,
+      "id": 2,
       "userId": 1,
       "content": "2 - Some random post generated for testing my social media app."
     },
     {
-      "postId": 3,
+      "id": 3,
       "userId": 1,
       "content": "3 - Some random post generated for testing my social media app."
     }
   ],
   "comments": [
     {
-      "commentId": 1,        
+      "id": 1,        
       "postId": 1,      
       "comment": "Hi bro"
     },
     {
-      "commentId": 2,
+      "id": 2,
       "postId": 1,      
       "comment": "awesome:)"
     }
   ],
   "albums": [
     {
-      "albumId": 1,
+      "id": 1,
       "userId": 1,
       "name": "Album-1"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "name": "Album-2"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "name": "Album-3"
     }
   ]
 }
