@@ -84,7 +84,11 @@
     {
       "id": 1,
       "userId": 1,
-      "name": "Album-1"
+      "name": "Album-1",
+      "images": [
+            {"id":1, "path":"assets/profile/1.jpg"},
+            {"id":2, "path":"assets/profile/5.jpg"}
+        ]
     },
     {
       "id": 2,
