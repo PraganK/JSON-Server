@@ -84,21 +84,38 @@
     {
       "id": 1,
       "userId": 1,
-      "name": "Album-1",
+      "name": "Scenery",
       "images": [
-            {"id":1, "path":"assets/profile/1.jpg"},
-            {"id":2, "path":"assets/profile/5.jpg"}
+            {"id":1, "path":"assets/albums/1/Album1/images1.jpg"},
+            {"id":2, "path":"assets/albums/1/Album1/images2.jpg"},
+            {"id":3, "path":"assets/albums/1/Album1/images3.jpg"},
+            {"id":4, "path":"assets/albums/1/Album1/images4.jpg"},
+            {"id":5, "path":"assets/albums/1/Album1/images5.jpg"},
+            {"id":6, "path":"assets/albums/1/Album1/images6.jpg"},
+            {"id":7, "path":"assets/albums/1/Album1/images7.jpg"}
         ]
     },
     {
       "id": 2,
       "userId": 1,
-      "name": "Album-2"
+      "name": "Album-2",
+      "images": [
+            {"id":1, "path":"assets/albums/1/Album1/images1.jpg"},
+            {"id":2, "path":"assets/albums/1/Album1/images2.jpg"},
+            {"id":3, "path":"assets/albums/1/Album1/images3.jpg"},
+            {"id":4, "path":"assets/albums/1/Album1/images4.jpg"},
+            {"id":5, "path":"assets/albums/1/Album1/images5.jpg"}
+      ]   
     },
     {
       "id": 3,
       "userId": 1,
-      "name": "Album-3"
+      "name": "Album-3",
+      "images": [
+            {"id":1, "path":"assets/albums/1/Album1/images1.jpg"},
+            {"id":2, "path":"assets/albums/1/Album1/images2.jpg"},
+            {"id":3, "path":"assets/albums/1/Album1/images3.jpg"}
+      ]
     }
   ]
 }
