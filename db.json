@@ -8,7 +8,7 @@
       "phone": "9876012345",
       "email": "john@abc.com",
       "address": "Kolkata",
-      "photo": "images/male-avatar.jpg"
+      "photo": "assets/profile/1.jpg"
     },
     {
       "userId": 2,
@@ -48,7 +48,7 @@
       "phone": "5588116600",
       "email": "hugh@abc.com",
       "address": "Bangalore",
-      "photo": ""
+      "photo": "assets/profile/5.jpg"
     }
   ],
   "posts": [
