@@ -55,31 +55,45 @@
     {
       "id": 1,
       "userId": 1,
-      "content": "1 - Some random post generated for testing my social media app."
+      "content": "1 - Some random post generated for testing my social media app.",
+      "comments": [
+                    {
+                      "id": 1,   
+                      "comment": "Hi bro"
+                    },
+                    {
+                      "id": 2,     
+                      "comment": "awesome:)"
+                    }
+                  ]
     },
     {
       "id": 2,
       "userId": 1,
-      "content": "2 - Some random post generated for testing my social media app."
+      "content": "2 - Some random post generated for testing my social media app.",
+      "comments": [
+                    {
+                      "id": 1,   
+                      "comment": "Cool....."
+                    }
+                  ]
     },
     {
       "id": 3,
       "userId": 1,
       "content": "3 - Some random post generated for testing my social media app."
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,        
-      "postId": 1,      
-      "comment": "Hi bro"
     },
     {
-      "id": 2,
-      "postId": 1,      
-      "comment": "awesome:)"
+      "id": 4,
+      "userId": 1,
+      "content": "4 - Some random post generated for testing my social media app."
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "content": "5 - Some random post generated for testing my social media app."
     }
-  ],
+  ],  
   "albums": [
     {
       "id": 1,
