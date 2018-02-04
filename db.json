@@ -19,7 +19,8 @@
       "phone": "8822440055",
       "email": "pragan@abc.com",
       "address": "Chennai",
-      "photo": ""
+      "photo": "",
+      "company": "CTS"
     },
     {
       "id": 3,
@@ -29,7 +30,8 @@
       "phone": "3210000654",
       "email": "jack@abc.com",
       "address": "Mumbai",
-      "photo": ""
+      "photo": "",
+      "company": "Deloitte"
     },
     {
       "id": 4,
@@ -39,7 +41,8 @@
       "phone": "7744556622",
       "email": "amanda@abc.com",
       "address": "New Delhi",
-      "photo": ""
+      "photo": "",
+      "company": "Winfoware"
     },
     {
       "id": 5,
@@ -49,7 +52,8 @@
       "phone": "5588116600",
       "email": "hugh@abc.com",
       "address": "Bangalore",
-      "photo": "assets/profile/5.jpg"
+      "photo": "assets/profile/5.jpg",
+      "company": "eMIDS"
     }
   ],
   "posts": [
@@ -74,10 +78,12 @@
     {
       "id": 2,
       "userId": 1,
+      "title": "Title - 2",
       "content": "2 - Some random post generated for testing my social media app.",
       "comments": [
                     {
-                      "id": 1,   
+                      "id": 1,  
+                      "userId": 3, 
                       "comment": "Cool....."
                     }
                   ]
@@ -85,22 +91,26 @@
     {
       "id": 3,
       "userId": 1,
+      "title": "Title - 3",
       "content": "3 - Some random post generated for testing my social media app.",
       "comments": [
                     {
-                      "id": 1,   
-                      "comment": "Cool....."
+                      "id": 1,  
+                      "userId": 2, 
+                      "comment": "Congrats....."
                     }
                   ]
     },
     {
       "id": 4,
       "userId": 1,
+      "title": "Title - 4",
       "content": "4 - Some random post generated for testing my social media app.",
       "comments": [
                     {
-                      "id": 1,   
-                      "comment": "Cool....."
+                      "id": 1,  
+                      "userId": 1, 
+                      "comment": "Amazing....."
                     }
                   ]
       
@@ -108,11 +118,13 @@
     {
       "id": 5,
       "userId": 1,
+      "title": "Title - 5",
       "content": "5 - Some random post generated for testing my social media app.",
       "comments": [
                     {
-                      "id": 1,   
-                      "comment": "Cool....."
+                      "id": 1,  
+                      "userId": 4, 
+                      "comment": "All the Best...."
                     }
                   ]
     }
