@@ -8,7 +8,8 @@
       "phone": "9876012345",
       "email": "john@abc.com",
       "address": "Kolkata",
-      "photo": "assets/profile/1.jpg"
+      "photo": "assets/profile/1.jpg",
+      "company": "HCL"
     },
     {
       "id": 2,
@@ -55,14 +56,17 @@
     {
       "id": 1,
       "userId": 1,
+      "title": "Title - 1",
       "content": "1 - Some random post generated for testing my social media app.",
       "comments": [
                     {
                       "id": 1,   
+                      "userId": 2,
                       "comment": "Hi bro"
                     },
                     {
-                      "id": 2,     
+                      "id": 2,
+                      "userId": 3, 
                       "comment": "awesome:)"
                     }
                   ]
@@ -81,17 +85,36 @@
     {
       "id": 3,
       "userId": 1,
-      "content": "3 - Some random post generated for testing my social media app."
+      "content": "3 - Some random post generated for testing my social media app.",
+      "comments": [
+                    {
+                      "id": 1,   
+                      "comment": "Cool....."
+                    }
+                  ]
     },
     {
       "id": 4,
       "userId": 1,
-      "content": "4 - Some random post generated for testing my social media app."
+      "content": "4 - Some random post generated for testing my social media app.",
+      "comments": [
+                    {
+                      "id": 1,   
+                      "comment": "Cool....."
+                    }
+                  ]
+      
     },
     {
       "id": 5,
       "userId": 1,
-      "content": "5 - Some random post generated for testing my social media app."
+      "content": "5 - Some random post generated for testing my social media app.",
+      "comments": [
+                    {
+                      "id": 1,   
+                      "comment": "Cool....."
+                    }
+                  ]
     }
   ],  
   "albums": [
