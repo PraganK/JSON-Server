@@ -20,7 +20,7 @@
       "email": "pragan@abc.com",
       "address": "Chennai",
       "photo": "",
-      "company": "CTS"
+      "company": "eMids"
     },
     {
       "id": 3,
@@ -42,7 +42,7 @@
       "email": "amanda@abc.com",
       "address": "New Delhi",
       "photo": "",
-      "company": "Winfoware"
+      "company": "Harman"
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@
       "email": "hugh@abc.com",
       "address": "Bangalore",
       "photo": "assets/profile/5.jpg",
-      "company": "eMIDS"
+      "company": "CTS"
     }
   ],
   "posts": [
