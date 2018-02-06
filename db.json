@@ -54,6 +54,30 @@
       "address": "Bangalore",
       "photo": "assets/profile/5.jpg",
       "company": "CTS"
+    },
+    {
+      "id": 6,
+      "firstName": "Mrs. Dennis",
+      "lastName": "Schulist",
+      "gender": "female",      
+      "phone": "1-477-935-8478 x6430",
+      "email": "Karley_Dach@jasper.info",
+      "address": "Norberto Crossing",       
+      "photo": "",
+      "website": "ola.org",
+      "company": "Considine-Lockman"
+    },
+    {
+      "id": 7,
+      "firstName": "Kurtis",
+      "lastName": "Weissnat",
+      "gender": "male",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": "Howemouth",
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": "Johns Group",
+      "photo": ""
     }
   ],
   "posts": [
